@@ -8,7 +8,7 @@
 - 💻 **Compétences :**
   - Langages : HTML, CSS, JavaScript, PHP
   - Frameworks : Bootstrap
-  - Outils : Git, MySQL, MongoDB
+  - Outils : Git, MySQL, MongoDB, Docker
 
 - 📫 **Contact :**
   - Email : dronex.contact@gmail.com
